@@ -1,4 +1,5 @@
-# GeforceNowQueueTracker
+KeforceNowQueueTracker
+ (It doesn't currently work)
  Tracks the queues of the different GeForceNow Servers.
 
 ## Getting Started
